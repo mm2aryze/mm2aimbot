@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImYyM2NhODQxLWZjYWEtNDZjMi1iMGJjLTIyMWU2ZmQ5NWE5ZiIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldChcImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9tbTJhcnl6ZS9teS1zb3VyY2VlZWVlZWVlZWUvcmVmcy9oZWFkcy9tYWluL3B1bHNlXCIpKSgpIn19"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/528cfd4c8fb71f628f5041d4ef41c558c9ded408f0426df39d5ed32f0c6ef2f3/download"))()
